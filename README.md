@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mateus
 - 👀 I’m interested in Python for GIS 
-- 🌱 I’m currently learning Python
 - 📫 juniormateuski@gmail.com
